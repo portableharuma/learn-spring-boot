@@ -6,7 +6,7 @@ public class Course {
     private String author;
 
     public Course(long id, String  name, String author) {
-c        this.id = id;
+        this.id = id;
         this.name = name;
         this.author = author;
     }
